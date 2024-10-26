@@ -1,0 +1,16 @@
+1- refine the navbar
+2- responsiveness
+7- splash screen
+
+
+3- local cache for selected languages
+4- local history
+5- local favorites
+6- sign up, sign in, sing out
+8- connect to the backend apis
+10- drawer functionality
+11- the functionality of the record and remove the input (X)
+12- secure token
+
+
+9- dart theme
